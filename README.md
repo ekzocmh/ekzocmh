@@ -1,16 +1,15 @@
-## Hi there 👋
+# Привет, я ekzocmh 👋
 
-<!--
-**ekzocmh/ekzocmh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Изучаю Git и GitHub на практике.
 
-Here are some ideas to get you started:
+## 🛠 Навыки
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Git:** коммиты, ветки, откат изменений (`revert`, `reset`)
+- **GitHub:** репозитории, публикация, работа с SSH
+- *Markdown:* заголовки, списки, таблицы, ссылки
+
+## 📂 Репозитории
+
+| Репозиторий | Описание |
+|---|---|
+| [git-praktik](https://github.com/ekzocmh/git-praktik) | Практика по Git: коммиты, откаты, папки |
